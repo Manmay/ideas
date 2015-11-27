@@ -2,7 +2,7 @@
 
 1: Smart Geyser
 
-2: Chache As Service
+2: Cache As Service
 
 3: AARTO Fine Notification
 
